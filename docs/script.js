@@ -1,1 +1,3 @@
-console.log("[template-web] Hello World!");
+const TITLE = "graph.js";
+
+console.log(`[${TITLE}] init`);
