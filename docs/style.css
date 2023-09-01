@@ -50,3 +50,9 @@ a {
 span#heart {
   color: var(--danger);
 }
+
+#graphCanvas {
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--medium);
+}
